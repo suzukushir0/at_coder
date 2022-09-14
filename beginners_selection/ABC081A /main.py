@@ -17,5 +17,5 @@ s1s2s3
 出力
 答えを出力せよ。
 """
-s = input()
-print(s.count('1'))
+
+print(input().count('1'))
